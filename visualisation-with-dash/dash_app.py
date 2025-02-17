@@ -5,7 +5,7 @@ from dash.dependencies import Input, Output
 from dash import html, dcc, dash_table
 import data_preprocess
 
-dataset_frame = pd.read_csv('playstore-analysis.csv')
+dataset_frame = pd.read_csv('data/playstore-analysis.csv')
 
 app = dash.Dash(__name__)
 
