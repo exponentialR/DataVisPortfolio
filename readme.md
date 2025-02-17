@@ -1,5 +1,6 @@
 
 # Dynamic Data-Centric Dashboard for Playstore Analysis
+![Playstore Analysis Dashboard](visualisation-with-dash/media/showcase-dash.gif)
 
 This project showcases advanced data visualisation skills using Dash, Plotly, and Pandas. The application features an interactive dashboard that provides insightful analyses of a Playstore dataset found in the `data\` directory.
 
